@@ -1,7 +1,5 @@
-body{
-    background-color: #e3f2fd;
-}
 
-.page-footer{
-    background-color: #0277bd;
-}
+body{
+    background-image: url("/src/assets/fondo.jpg");
+    background-repeat: no-repeat;
+  }
