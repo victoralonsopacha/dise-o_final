@@ -2,3 +2,11 @@ body{
   background-image: url("/src/assets/fondo.jpg");
   background-repeat: no-repeat;
 }
+
+#imagen{
+  background-color: #42a5f5;
+}
+
+img{
+  background-color:#546e7a;
+}
