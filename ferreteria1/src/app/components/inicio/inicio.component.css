@@ -10,3 +10,11 @@ body{
 img{
   background-color:#546e7a;
 }
+
+#principal{
+  display: inline-block;
+}
+
+.card-content{
+  background-color: #0091ea;
+}
